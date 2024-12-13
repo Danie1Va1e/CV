@@ -45,7 +45,7 @@ header{
 .name{
     background-color: #E3C39D;
     color: #071739;
-    justify-content:space-around;
+    justify-items:center;
     margin-left: 0.5cm;
     padding-left: 3%;
     padding-right: 10%;
@@ -54,10 +54,12 @@ header{
 }
 
 .daniel{
+    justify-items: center;
     background-color: #E3C39D;
     margin-left: 0.5cm;
     padding-right: 5%;
-    margin-top: 1cm;
+    margin-top: 2cm;
+    border-right: 20%;
 }
 
 .gestor{
